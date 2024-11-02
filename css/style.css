@@ -32,3 +32,69 @@ header .nav-link {
 .trpbtn:hover {
   background-color: rgba(69, 68, 77, 1);
 }
+.page-2 {
+  height: 100vh;
+  background: linear-gradient(to right, #252734, #252734);
+}
+.content-2 {
+  height: 90vh;
+  width: 90vw;
+}
+.btext {
+  color: #050cdd;
+  font-weight: 700;
+}
+.img-box-1 {
+  height: 400px;
+  width: 300px;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.img-box-1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.skills {
+  height: 100vh;
+  background: linear-gradient(to right, #252734, #252734);
+}
+.education {
+  height: 100vh;
+  background: linear-gradient(to right, #252734, #252734);
+}
+.education h6 {
+  font-weight: 700;
+  font-size: 24px;
+  color: #050cdd;
+}
+.services {
+  height: 100vh;
+  background: linear-gradient(to right, #252734, #252734);
+}
+.contact {
+  height: 100vh;
+  background-color: #252734;
+}
+input[type="text"] {
+  background-color: #333645;
+  border: none;
+}
+input[type="text"]::placeholder {
+  color: white;
+}
+input[type="email"] {
+  background-color: #333645;
+  border: none;
+}
+input[type="email"]::placeholder {
+  color: white;
+}
+textarea[type="text"]::placeholder {
+  color: white;
+}
+.contact h6 {
+  font-weight: 700;
+  color: #050cdd;
+}
